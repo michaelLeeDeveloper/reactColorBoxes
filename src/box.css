@@ -1,0 +1,6 @@
+.Box {
+    width: 20em;
+    height: 20em;
+    border: 10px black solid;
+    box-sizing: border-box;
+}
